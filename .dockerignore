@@ -1,0 +1,7 @@
+.git
+.ghconfig
+.gitconfig
+.gocache
+report
+cover.out
+*.log
